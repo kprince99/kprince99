@@ -26,7 +26,7 @@ I am learner and love to learn new technologies and contributing to open source.
 - 🔭 I’m currently working on Something cool! 🕵️‍♂️  
   
 
-- 🌱 I’m currently learning React and Django   
+- 🌱 I’m currently learning Svelte and Django   
   
 
 - ❓ Ask me about anything related to Web and related technologies  
